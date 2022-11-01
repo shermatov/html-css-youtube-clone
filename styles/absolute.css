@@ -1,0 +1,7 @@
+.absolute {
+    display: absolute;
+    background-color:red;
+    color: white;
+    top: 0;
+    right: 0;
+}
